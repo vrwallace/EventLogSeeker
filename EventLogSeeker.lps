@@ -8,7 +8,7 @@
       <Unit0>
         <Filename Value="EventLogSeeker.lpr"/>
         <IsPartOfProject Value="True"/>
-        <UnitName Value="PaceEventLogSeeker"/>
+        <UnitName Value="EventLogSeeker"/>
         <UsageCount Value="22"/>
       </Unit0>
       <Unit1>
