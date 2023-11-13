@@ -6,7 +6,7 @@
     <BuildModes Active="Default"/>
     <Units Count="2">
       <Unit0>
-        <Filename Value="PaceEventLogSeeker.lpr"/>
+        <Filename Value="EventLogSeeker.lpr"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="PaceEventLogSeeker"/>
         <UsageCount Value="22"/>
