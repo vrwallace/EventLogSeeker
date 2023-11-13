@@ -4,7 +4,7 @@ object Form1: TForm1
   Top = 462
   Width = 652
   BorderStyle = bsSingle
-  Caption = 'Pace Event Log Seeker - Version .01 - Program by Von Wallace'
+  Caption = 'Event Log Seeker - Version .01 - Program by Von Wallace'
   ClientHeight = 145
   ClientWidth = 652
   LCLVersion = '1.0.14.0'
